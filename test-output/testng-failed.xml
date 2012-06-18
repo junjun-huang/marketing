@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [marketing]" thread-count="5" verbose="1" annotations="JDK" parallel="false" data-provider-thread-count="10" junit="false" configfailurepolicy="skip" skipfailedinvocationcounts="false">
+  <test name="com.dp.action.RealDealInfoActionTest(failed)" junit="false" parallel="false" annotations="JDK">
+    <classes>
+      <class name="com.dp.action.RealDealInfoActionTest">
+        <methods>
+          <include name="testReadDealInfo"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

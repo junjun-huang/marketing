@@ -1,0 +1,16 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="marketing" duration-ms="138" started-at="2012-06-04T16:48:06Z" finished-at="2012-06-04T16:48:06Z">
+    <groups>
+    </groups>
+    <test name="com.dp.action.RealDealInfoActionTest" duration-ms="138" started-at="2012-06-04T16:48:06Z" finished-at="2012-06-04T16:48:06Z">
+      <class name="com.dp.action.RealDealInfoActionTest">
+        <test-method status="PASS" signature="beforeClass()" name="beforeClass" is-config="true" duration-ms="4" started-at="2012-06-04T16:48:06Z" finished-at="2012-06-04T16:48:06Z">
+        </test-method>
+        <test-method status="PASS" signature="testReadDealInfo()" name="testReadDealInfo" duration-ms="129" started-at="2012-06-04T16:48:06Z" finished-at="2012-06-04T16:48:06Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
